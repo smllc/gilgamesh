@@ -1,2 +1,2 @@
-# gilgamesh
+# Gilgamesh
 The Epic of Gilgamesh
