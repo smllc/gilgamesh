@@ -61,9 +61,10 @@ angular.module('starter', ['ionic', 'starter.controllers'])
 
   .state('app.single', {
     url: '/tablets/:tabletId',
+    title:':id',
     views: {
       'menuContent': {
-        templateUrl: 'templates/tablet.html',
+        templateUrl: 'templates/1.html',
         controller: 'TabletCtrl'
       }
     }
